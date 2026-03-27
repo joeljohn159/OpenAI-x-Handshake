@@ -1,0 +1,14 @@
+<svg width="840" height="200" viewBox="0 0 840 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 22H97L66 53L44 75L20 52V22Z" fill="#2D6A4F"/>
+  <path d="M20 69L59 108L20 148V69Z" fill="#2D6A4F"/>
+  <path d="M119 22H196V99L172 123L147 98H106L91 83L119 54V22Z" fill="#2D6A4F"/>
+  <path d="M196 119V194L157 156L196 119Z" fill="#2D6A4F"/>
+  <path d="M20 165L53 132L84 163H149L126 194H20V165Z" fill="#2D6A4F"/>
+  <path d="M170 156L196 182V194H132L170 156Z" fill="#2D6A4F"/>
+  <path d="M61 53L89 81" stroke="#2D6A4F" stroke-width="16" stroke-linecap="square"/>
+  <path d="M90 134L126 98" stroke="#2D6A4F" stroke-width="16" stroke-linecap="square"/>
+  <path d="M148 99L170 122" stroke="#2D6A4F" stroke-width="16" stroke-linecap="square"/>
+  <path d="M59 133L84 158" stroke="#2D6A4F" stroke-width="16" stroke-linecap="square"/>
+  <path d="M127 157L158 126" stroke="#2D6A4F" stroke-width="16" stroke-linecap="square"/>
+  <text x="244" y="136" fill="#243C2E" font-family="DM Sans, sans-serif" font-size="86" font-weight="700" letter-spacing="-0.04em">CampusShare</text>
+</svg>
